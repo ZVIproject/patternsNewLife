@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generative/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/generative/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/structural/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/structural/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generative/Builder/Builder.iml" filepath="$PROJECT_DIR$/generative/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generative/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/generative/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generative/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/generative/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generative/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/generative/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests/Tests.iml" filepath="$PROJECT_DIR$/Tests/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioral/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/behavioral/Visitor/Visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/patterns.iml" filepath="$PROJECT_DIR$/.idea/patterns.iml" />
+    </modules>
+  </component>
+</project>
